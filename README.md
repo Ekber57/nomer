@@ -1,2 +1,2 @@
 # nomer
-nomer control
+Bu python modulu Azerbaycan opratorlarini destekleyen bir moduldur.
